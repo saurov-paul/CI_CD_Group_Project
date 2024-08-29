@@ -1,0 +1,6 @@
+projectKey=ci-cd-group-3
+serverUrl=http://localhost:8889
+serverVersion=10.6.0.92116
+dashboardUrl=http://localhost:8889/dashboard?id=ci-cd-group-3
+ceTaskId=d8bcc2f0-22da-4e3b-9468-5cdfa4fd8eca
+ceTaskUrl=http://localhost:8889/api/ce/task?id=d8bcc2f0-22da-4e3b-9468-5cdfa4fd8eca
