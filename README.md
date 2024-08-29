@@ -10,4 +10,5 @@
 
 Happy coding!!
 
-https://img.shields.io/badge/Sonar_Cloud-green
+[![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-white.svg)](https://sonarcloud.io/project/overview?id=ekundayoSO_group-3-job)
+ 
